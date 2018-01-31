@@ -1,0 +1,11 @@
+C:\Users\jecelin\source\repos\HomeBudgetTrackingSystem\HomeBudgetTrackingSystem\bin\Debug\netcoreapp2.0\HomeBudgetTrackingSystem.deps.json
+C:\Users\jecelin\source\repos\HomeBudgetTrackingSystem\HomeBudgetTrackingSystem\bin\Debug\netcoreapp2.0\HomeBudgetTrackingSystem.runtimeconfig.json
+C:\Users\jecelin\source\repos\HomeBudgetTrackingSystem\HomeBudgetTrackingSystem\bin\Debug\netcoreapp2.0\HomeBudgetTrackingSystem.runtimeconfig.dev.json
+C:\Users\jecelin\source\repos\HomeBudgetTrackingSystem\HomeBudgetTrackingSystem\bin\Debug\netcoreapp2.0\HomeBudgetTrackingSystem.dll
+C:\Users\jecelin\source\repos\HomeBudgetTrackingSystem\HomeBudgetTrackingSystem\bin\Debug\netcoreapp2.0\HomeBudgetTrackingSystem.pdb
+C:\Users\jecelin\source\repos\HomeBudgetTrackingSystem\HomeBudgetTrackingSystem\obj\Debug\netcoreapp2.0\HomeBudgetTrackingSystem.csproj.CoreCompileInputs.cache
+C:\Users\jecelin\source\repos\HomeBudgetTrackingSystem\HomeBudgetTrackingSystem\obj\Debug\netcoreapp2.0\HomeBudgetTrackingSystem.AssemblyInfoInputs.cache
+C:\Users\jecelin\source\repos\HomeBudgetTrackingSystem\HomeBudgetTrackingSystem\obj\Debug\netcoreapp2.0\HomeBudgetTrackingSystem.AssemblyInfo.cs
+C:\Users\jecelin\source\repos\HomeBudgetTrackingSystem\HomeBudgetTrackingSystem\obj\Debug\netcoreapp2.0\HomeBudgetTrackingSystem.dll
+C:\Users\jecelin\source\repos\HomeBudgetTrackingSystem\HomeBudgetTrackingSystem\obj\Debug\netcoreapp2.0\HomeBudgetTrackingSystem.pdb
+C:\Users\jecelin\source\repos\HomeBudgetTrackingSystem\HomeBudgetTrackingSystem\obj\Debug\netcoreapp2.0\HomeBudgetTrackingSystem.csprojResolveAssemblyReference.cache
